@@ -78,7 +78,7 @@ namespace McNairPortfolioPostStorageFunction
                 }
             }
 
-            return new BadRequestResult();
+            return new BadRequestResult(); 
         }
     }
 }
